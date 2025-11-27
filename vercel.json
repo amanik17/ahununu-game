@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/logistics_runner.html"
+    }
+  ]
+}
